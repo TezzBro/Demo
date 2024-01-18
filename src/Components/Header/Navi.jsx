@@ -23,7 +23,7 @@ const Navi = ({ text, itemCount, setCartItems }) => {
             shadow-lg transition duration-200 ease-in shadow-white/50 ">
 
                 <div >
-                    <h1 className=" font-extrabold text-[20px]  lg:text-[30px] md:text-[25px] sm:text-[20px]">UDIT BHAIYA</h1>
+                    <h1 className=" font-extrabold text-[20px]  lg:text-[30px] md:text-[25px] sm:text-[20px]">MANISH BHAIYA</h1>
                 </div>
 
 
